@@ -53,7 +53,7 @@ def make_embed(title, description, color=0x8B0000):
         timestamp=datetime.now()
     )
     embed.set_footer(text="Umbrella Corporation | МОГ-Зонт")
-    embed.set_thumbnail(url="https://i.imgur.com/8xRnZkM.png")
+    embed.set_thumbnail(url="https://i.pinimg.com/originals/23/d8/ec/23d8ec34996d8cb5749d40bc8322b464.jpg")
     return embed
 
 @bot.event
